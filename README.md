@@ -41,6 +41,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swdrana&show_icons=true&locale=en" alt="swdrana" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swdrana&layout=compact)](https://github.com/swdrana/github-readme-stats)
 
 <p align="center"><img align="center" src="https://t.herokuapp.com/?user=swdrana&" alt="swdrana" /></p>
